@@ -1,1 +1,4 @@
-jumpserver/jms_all:v3.8.1
+jumpserver/core:v2.25.2
+jumpserver/koko:v2.25.2
+jumpserver/lion:v2.25.2
+jumpserver/magnus:v2.25.2
