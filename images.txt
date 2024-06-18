@@ -4,3 +4,4 @@ jumpserver/guacd:1.5.5-bookworm
 jumpserver/jms_core:v3.10.10
 debian:bookworm-slim
 python:3.11-slim-bookworm
+jumpserver/redis:6.2
