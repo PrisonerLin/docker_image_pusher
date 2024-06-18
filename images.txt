@@ -1,1 +1,3 @@
-mysql:5.7.9
+mysql:5.7
+jumpserver/chen:v2.25.2
+jumpserver/kael:v2.25.2
