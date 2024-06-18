@@ -6,3 +6,4 @@ debian:bookworm-slim
 python:3.11-slim-bookworm
 jumpserver/redis:6.2
 jumpserver/mariadb:10.6
+jumpserver/web:v2.25.2
