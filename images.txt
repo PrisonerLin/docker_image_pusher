@@ -1,9 +1,1 @@
-nginx:latest
-redis:7.0-bookworm
-jumpserver/guacd:1.5.5-bookworm
-jumpserver/jms_core:v3.10.10
-debian:bookworm-slim
-python:3.11-slim-bookworm
-jumpserver/redis:6.2
-jumpserver/mariadb:10.6
-jumpserver/web:v2.25.2
+jumpserver/jms_all:v3.8.1
