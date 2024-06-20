@@ -1,2 +1,2 @@
-jumpserver/chen:v2.25.2
-jumpserver/kael:v2.25.2
+ubuntu:20.04
+ubuntu:22.04
